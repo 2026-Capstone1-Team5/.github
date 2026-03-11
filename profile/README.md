@@ -4,11 +4,8 @@
 
 ---
 
-<div align="center">
-
 ## Docmate란?
 
-</div>
 
 **Docmate**는 문서(Document)를 AI가 이해하고 활용할 수 있도록 돕는 **Document AI MCP(Model Context Protocol) / Skills** 플랫폼입니다.
 
@@ -66,16 +63,12 @@
 
 </div>-->
 
-
-<div align="center">
-
 ## 팀 소개 — A+이 다가5조
 
 > *"A+이 다가온다"* — 결과를 향해 달려가는 5조입니다 🏆
 
-</div>
 
-<table align="center">
+<table>
   <thead>
     <tr>
       <th>GitHub</th>
@@ -136,11 +129,3 @@
     </tr>
   </tbody>
 </table>
-
----
-
-<div align="center">
-
-*캡스톤 프로젝트 2025 — A+이 다가5조*
-
-</div>
