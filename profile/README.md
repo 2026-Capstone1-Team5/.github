@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=200&section=header&text=Docmate&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Document%20AI%20MCP%20%2F%20Skills&descAlignY=58&descSize=22&descColor=c7d2fe" width="100%"/>
-
-<br/>
+![Docmate](../assets/thumbnail.png)
 
 </div>
 
