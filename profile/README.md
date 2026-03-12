@@ -81,7 +81,7 @@
       <td align="center">
         <a href="https://github.com/k56754665">
           <img src="https://github.com/k56754665.png" width="60" height="60" style="border-radius:50%"/><br/>
-          <b>김금지</b>
+          <b>강금지</b>
         </a>
       </td>
       <td align="center">🧠 Agent Skills/MCP</td>
