@@ -91,7 +91,7 @@
       <td align="center">
         <a href="https://github.com/dykwon33">
           <img src="https://github.com/dykwon33.png" width="60" height="60" style="border-radius:50%"/><br/>
-          <b>권도원</b>
+          <b>권도윤</b>
         </a>
       </td>
       <td align="center">🎨 Frontend</td>
